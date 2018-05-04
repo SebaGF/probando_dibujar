@@ -1,0 +1,10 @@
+c:\users\garci\source\repos\GUI\PruebasPlano\bin\Debug\PruebasPlano.exe.config
+c:\users\garci\source\repos\GUI\PruebasPlano\bin\Debug\PruebasPlano.exe
+c:\users\garci\source\repos\GUI\PruebasPlano\bin\Debug\PruebasPlano.pdb
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.csprojResolveAssemblyReference.cache
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.Form1.resources
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.Properties.Resources.resources
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.csproj.GenerateResource.cache
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.csproj.CoreCompileInputs.cache
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.exe
+c:\users\garci\source\repos\GUI\PruebasPlano\obj\Debug\PruebasPlano.pdb
